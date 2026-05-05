@@ -148,14 +148,23 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ---
 
+<!-- GitHub Stats는 외부 API 상태에 따라 표시되지 않을 수 있어 주석 처리 -->
+<!--
 ## GitHub Stats
 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent&cache_seconds=86400" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent&langs_count=8&cache_seconds=86400" />
 </p>
+-->
 
----
+## Development Focus
+
+- Backend API 설계와 DB 연동
+- 사용자 기록 기반 서비스 로직 구현
+- AI 모델 결과를 실제 서비스와 연결
+- 운영자가 관리할 수 있는 웹서비스 구조 설계
+- GitHub README 기반 프로젝트 문서화
 
 ## Interests
 
