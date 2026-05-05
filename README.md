@@ -55,7 +55,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ## Featured Projects
 
-### 1. [TimeFit](https://github.com/inhadissolve/REPO_NAME)
+### 1. [TimeFit]
 > 앱 사용 시간 관리 및 학습 집중 서비스
 
 - 사용자의 앱 사용 기록을 저장하고, 일간/주간 사용량 통계와 앱 잠금 규칙을 관리하는 서비스입니다.
@@ -68,7 +68,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ---
 
-### 2. [Incheon Church Vehicle Management System](https://github.com/inhadissolve/REPO_NAME)
+### 2. [Incheon Church Vehicle Management System](https://incheon-church-vehicle-log.vercel.app/)
 > 인천교회 주차부·차량 운영 관리 웹서비스
 
 - 교회 차량의 운행 기록, 주차 위치, 최근 운행 내역을 관리하기 위한 운영형 웹서비스입니다.
@@ -81,7 +81,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ---
 
-### 3. [RealGain](https://github.com/inhadissolve/REPO_NAME)
+### 3. [RealGain](https://github.com/inhadissolve/Real_Gain)
 > 산업 데이터 기반 이상탐지 AI 프로젝트
 
 - 진동 및 orbit 데이터를 바탕으로 정상/비정상 상태를 분류하는 AI 시스템을 설계한 프로젝트입니다.
@@ -94,7 +94,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ---
 
-### 4. [Sudam](https://github.com/inhadissolve/REPO_NAME)
+### 4. [Sudam](https://github.com/inhadissolve/Sudam)
 > 실시간 양방향 수어 인식·번역 서비스
 
 - MediaPipe 기반 keypoint 추출과 AI 모델을 활용해 수어를 인식하는 프로젝트입니다.
@@ -108,6 +108,8 @@ Backend · AI · Full-stack에 관심이 많고,
 ---
 
 ### 5. [Samuel School](https://github.com/inhadissolve/REPO_NAME)
+
+웹사이트: (https://samuel-school.vercel.app/)
 > 학습과 복습을 연결하는 웹서비스
 
 - 성경 암송 학습을 퀴즈, 오답노트, 복습 흐름으로 반복할 수 있도록 만든 웹서비스입니다.
@@ -120,7 +122,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ---
 
-### 6. [Issue One](https://github.com/inhadissolve/REPO_NAME)
+### 6. [Issue One](https://github.com/inhadissolve/ISSUE_ONE)
 > 이슈 탐색 및 요약 중심 서비스 프로젝트
 
 - 사용자가 핵심 이슈를 더 빠르게 파악할 수 있도록 정보를 정리하고 제공하는 프로젝트입니다.
@@ -149,8 +151,8 @@ Backend · AI · Full-stack에 관심이 많고,
 ## GitHub Stats
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
