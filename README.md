@@ -1,6 +1,8 @@
 <div align="center">
 
-# 김찬혁입니다 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%EA%B9%80%EC%B0%AC%ED%98%81+%F0%9F%91%8B;Backend+%C2%B7+AI+%C2%B7+Full-stack;Make+it+work%2C+Make+it+real)](https://git.io/typing-svg)
+
+<br/>
 
 Backend · AI · Full-stack에 관심이 많고,  
 아이디어를 실제 서비스, API, 데이터 흐름, 배포까지 연결하는 개발을 좋아합니다.
@@ -26,25 +28,49 @@ Backend · AI · Full-stack에 관심이 많고,
 ### 🧑‍💻 개발 연혁
 
 - **KSEB 부트캠프 4기** 수료 · 우수 교육생 선정 (8명 중) `2025.01 ~ 2025.11`
-- **UMC 10th** Backend(Node.js) 파트 챌린저 `2026.03 ~ `
+- **UMC 10th** Backend(Node.js) 파트 챌린저 `2026.03 ~`
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,react,nextjs,nodejs&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts" />
+</p>
+
+### Backend / DB
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
 </p>
 
 ### AI / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=9" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
-### Database / Infra / Tools
+### Infra / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,firebase,git,github,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,vercel,androidstudio" />
 </p>
 
 ---
@@ -62,16 +88,16 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ## Projects
 
-> 프로젝트별 상세 내용(역할·트러블슈팅·배운 점)은 **[Notion 포트폴리오](https://www.notion.so/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)** 에서 확인하실 수 있습니다.
+> 프로젝트별 상세 내용(역할 · 트러블슈팅 · 배운 점)은 **[Notion 포트폴리오](https://www.notion.so/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)** 에서 확인하실 수 있습니다.
 
 | 기간 | 프로젝트 | 설명 | 기술 |
 |---|---|---|---|
 | 2026 ~ | [📱 FocusLink](https://github.com/inhadissolve) | 앱 사용 기록 기반 공부 집중 관리 Android 앱 — 1인 풀스택 | `FastAPI` `PostgreSQL` `Jetpack Compose` |
 | 2026 ~ | [🎯 CueKit](https://github.com/inhadissolve) | AI 퀴즈 생성 · QR 라이브 룸 SaaS 플랫폼 — 개인 MVP 개발 중 | `Next.js` `TypeScript` `Supabase` |
 | 2026 ~ | [🌱 GreenBrain](https://github.com/GreenBrain-Inha/BE_GreenBrain) | AI 기반 탄소중립 챌린지 실천 웹서비스 — 팀 BE 담당 | `FastAPI` `PostgreSQL` `Supabase` |
-| 2026 ~ | [⛪ 농선부 관리](https://github.com/inhadissolve) | 청각장애인 선교부 출석·수어교실·당번 통합 관리 — 1인 · 실운영 | `React` `Firebase` `TypeScript` |
+| 2026 ~ | [⛪ 농선부 관리](https://github.com/inhadissolve) | 청각장애인 선교부 출석 · 수어교실 · 당번 통합 관리 — 1인 · 실운영 | `React` `Firebase` `TypeScript` |
 | 2026 ~ | [🐝 꿀단지 레이스](https://github.com/inhadissolve) | 성경읽기 대항전 실시간 레이스 게임 — 3인 팀 · 실운영 | `React` `Framer Motion` `Firebase` |
-| 2025 | [🤟 수담(手談)](https://github.com/KSEB-MEGA-CREW) | 실시간 양방향 수어 인식·번역 서비스 — 팀장 · AI 파이프라인 담당 | `Python` `MediaPipe` `FastAPI` |
+| 2025 | [🤟 수담(手談)](https://github.com/KSEB-MEGA-CREW) | 실시간 양방향 수어 인식 · 번역 서비스 — 팀장 · AI 파이프라인 담당 | `Python` `MediaPipe` `FastAPI` |
 | 2025 | [🏭 RealGain](https://github.com/inhadissolve/Real_Gain) | 산업 설비 진동 데이터 기반 이상탐지 AI — AI/HW 파트 담당 | `Python` `TensorFlow` `Grad-CAM` |
 | 2025 | [📰 IssueOne](https://github.com/inhadissolve/ISSUE_ONE) | RSS 수집 · AI 요약 기반 개인 맞춤형 뉴스 서비스 — 팀 AI/BE 담당 | `FastAPI` `SQLite` `HuggingFace API` |
 
