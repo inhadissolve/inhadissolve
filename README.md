@@ -42,7 +42,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ### Backend / DB
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,sqlite,prisma" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
@@ -52,7 +52,7 @@ Backend · AI · Full-stack에 관심이 많고,
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -82,7 +82,7 @@ Backend · AI · Full-stack에 관심이 많고,
 |---|---|
 | 2025.09 ~ 2025.12 | 🏆 탄소중립 Innovation Academy 5기 기업 연계 프로젝트 **대상** |
 | 2025.09 ~ 2025.10 | 🥇 오픈소스 SW 페스티벌 **최우수상** (인하대학교 총장상) |
-| 2025.07 ~ 2025.09 | 🥉 KSEB 팀 프로젝트 **우수상** |
+| 2025.06 ~ 2025.08 | 🥉 KSEB 팀 프로젝트 **우수상** |
 | 2025.03 ~ 2025.06 | 🥇 KSEB 미니프로젝트 **대상** (1위) |
 | 2025.01 ~ 2025.11 | 🏅 KSEB 부트캠프 4기 **개인 우수상** (전체 수료생 중 8명 선정) |
 
@@ -94,9 +94,12 @@ Backend · AI · Full-stack에 관심이 많고,
 
 | 기간 | 프로젝트 | 설명 | 기술 |
 |---|---|---|---|
+| 2025.11 ~ | [📚 사무엘학교](https://github.com/inhadissolve/samuel-school) | 성경 암송 훈련 학습 웹서비스 — 기획부터 배포까지 1인 개발, 실사용자 운영 중 | `React` `FastAPI` `PostgreSQL` `OpenAI API` |
+| 2026.06 ~ | [🏠 HomeFit](https://github.com/inhadissolve) | 청년 주거 · 금융 의사결정 서비스 — UMC 10th 팀 프로젝트 · Backend Team Lead | `NestJS` `PostgreSQL` `Prisma` |
 | 2026 ~ | [📱 FocusLink](https://github.com/inhadissolve) | 앱 사용 기록 기반 공부 집중 관리 Android 앱 — 1인 풀스택 | `FastAPI` `PostgreSQL` `Jetpack Compose` |
 | 2026 ~ | [🎯 CueKit](https://github.com/inhadissolve) | AI 퀴즈 생성 · QR 라이브 룸 SaaS 플랫폼 — 개인 MVP 개발 중 | `Next.js` `TypeScript` `Supabase` |
 | 2026 ~ | [🌱 GreenBrain](https://github.com/GreenBrain-Inha/BE_GreenBrain) | AI 기반 탄소중립 챌린지 실천 웹서비스 — 팀 BE 담당 | `FastAPI` `PostgreSQL` `Supabase` |
+| 2026 ~ | [🚗 교회 차량 운영](https://github.com/inhadissolve) | 교회 차량 운행 기록 · 주차 위치 관리 웹서비스 — 1인 개발 · 실운영 | - |
 | 2026 ~ | [⛪ 농선부 관리](https://github.com/inhadissolve) | 청각장애인 선교부 출석 · 수어교실 · 당번 통합 관리 — 1인 · 실운영 | `React` `Firebase` `TypeScript` |
 | 2026 ~ | [🐝 꿀단지 레이스](https://github.com/inhadissolve) | 성경읽기 대항전 실시간 레이스 게임 — 3인 팀 · 실운영 | `React` `Framer Motion` `Firebase` |
 | 2025 | [🤟 수담(手談)](https://github.com/KSEB-MEGA-CREW) | 실시간 양방향 수어 인식 · 번역 서비스 — 팀장 · AI 파이프라인 담당 | `Python` `MediaPipe` `FastAPI` |
