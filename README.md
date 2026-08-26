@@ -1,128 +1,112 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%EA%B9%80%EC%B0%AC%ED%98%81+%F0%9F%91%8B;Backend+%C2%B7+AI+%C2%B7+Full-stack;Make+it+work%2C+Make+it+real)](https://git.io/typing-svg)
+<a href="https://inhadissolve.github.io/portfolio/">
+  <img src="https://inhadissolve.github.io/portfolio/assets/og-image.png" alt="김찬혁 백엔드 개발자 포트폴리오" width="860">
+</a>
 
-<br/>
+### 아이디어를 API와 데이터 구조로 구체화하고, 배포와 운영까지 연결합니다.
 
-Backend · AI · Full-stack에 관심이 많고,  
-아이디어를 실제 서비스, API, 데이터 흐름, 배포까지 연결하는 개발을 좋아합니다.
+FastAPI · NestJS · PostgreSQL을 중심으로 서비스를 만들고 운영하는 백엔드 개발자 **김찬혁**입니다.<br>
+AI 모델과 외부 API를 제품 흐름에 연결하고, 팀의 API 계약과 배포 과정까지 책임지는 일을 좋아합니다.
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-inhadissolve-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/inhadissolve)
-[![Email](https://img.shields.io/badge/Email-dissolve1882%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:dissolve1882@naver.com)
-[![Blog](https://img.shields.io/badge/Blog-dissolve__chan-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/dissolve_chan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3457FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://inhadissolve.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://inhadissolve.github.io/portfolio/assets/resume.pdf)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/dissolve_chan)
+[![Email](https://img.shields.io/badge/Email-dissolve1882%40naver.com-6B7280?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:dissolve1882@naver.com)
 
 </div>
 
----
-
 ## About Me
 
-- 아이디어가 떠오르면 바로 실행에 옮기고, 구체화하면서 빠르게 완성해나가는 개발 스타일을 가지고 있습니다.
-- 인하대학교 전기전자공학부 재학 중이며, Backend · AI · Full-stack 개발에 관심이 많습니다.
-- FastAPI, Node.js, PostgreSQL 등을 활용해 **API 설계, DB 연동, 사용자 기록 관리, 운영형 서비스 구축**을 경험하고 있습니다.
-- AI 프로젝트에서는 데이터 전처리, 모델 학습, 실시간 추론, 모델 서빙 구조를 경험했고, 이를 실제 웹서비스와 연결하는 방향으로 확장하고 있습니다.
-- 단순히 기능을 구현하는 것보다, **사용자가 실제로 쓰고 운영자가 관리할 수 있는 형태로 완성하는 과정**을 중요하게 생각합니다.
+- 인하대학교 전기전자공학부에 재학 중이며, **Backend · AI Integration · Service Operations**에 집중하고 있습니다.
+- 기능 구현에 그치지 않고 API 명세, ERD, 테스트, 배포, 운영 문서까지 서비스 생명주기를 함께 다룹니다.
+- HomeFit에서는 **Backend Team Lead**로 도메인별 API 계약과 PR 우선순위, Android 연동, 테스트 시나리오를 조율했습니다.
+- 사무엘학교를 1인 개발·운영하며 **회원 449명, 14일 학습 완료 16,496회, 최고 동시 접속 36명**의 사용 기록을 만들었습니다.
+- 막히는 문제를 숨기지 않고 문서와 실험으로 공유하며, 팀이 빠르게 결정하고 끝까지 완주하도록 돕습니다.
 
-### 🧑‍💻 개발 연혁
+## Highlights
 
-- **KSEB 부트캠프 4기** 수료 · 우수 교육생 선정 (8명 중) `2025.01 ~ 2025.11`
-- **UMC 10th** Backend(Node.js) 파트 챌린저 `2026.03 ~`
-
----
+| 구분 | 성과 |
+| --- | --- |
+| 🏠 Backend Leadership | HomeFit 백엔드 팀장 · NestJS/Prisma API · Android 통합 테스트 · 부산 BEXCO 데모데이 운영 |
+| ☁️ Cloud & Delivery | Railway에서 AWS ALB·EC2 Auto Scaling·RDS·ECR·S3로 확장하고 Terraform·GitHub Actions OIDC로 IaC/CI/CD 구성 |
+| 📚 Production Operation | 사무엘학교 기획부터 React·FastAPI·PostgreSQL·OpenAI 연동, 배포와 운영까지 1인 수행 |
+| 🤖 AI Integration | MediaPipe·TensorFlow 실시간 추론, ResNet18·Grad-CAM, Hugging Face·OpenAI API 기반 서비스 연계 |
+| 🏅 Recognition | UMC 10th Backend(Node.js) 베스트 챌린저 · 프로젝트 대상 2회 · 최우수상 1회 · 우수상 1회 |
 
 ## Tech Stack
 
-### Languages
+### Languages · Backend · Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,nestjs,postgres,sqlite,prisma" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, NestJS, PostgreSQL, SQLite, Prisma">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white" alt="Alembic">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Testcontainers-2F80ED?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers">
 </p>
 
-### Backend / DB
+### Cloud · Infra · Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,sqlite,prisma" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,github,vercel,firebase" alt="AWS, Docker, Terraform, GitHub Actions, Git, GitHub, Vercel, Firebase">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+  <img src="https://img.shields.io/badge/GitHub_Actions_OIDC-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions OIDC">
+  <img src="https://img.shields.io/badge/AWS-ALB_%C2%B7_EC2_%C2%B7_RDS_%C2%B7_ECR_%C2%B7_S3-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS ALB, EC2, RDS, ECR, S3">
 </p>
 
-### Frontend
+### AI · Data · Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,react,nextjs,tailwind" alt="TensorFlow, OpenCV, React, Next.js, Tailwind CSS">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
 </p>
 
-### AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
+## Featured Projects
 
-### Infra / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,git,github,vercel,androidstudio" />
-</p>
+| 프로젝트 | 역할 | 핵심 구현과 결과 |
+| --- | --- | --- |
+| [📚 사무엘학교](https://samuel-school.vercel.app/) | 1인 Full-stack · 운영 | React·FastAPI·PostgreSQL 기반 성경 암송 학습 서비스. OpenAI 퀴즈 생성과 운영 대시보드 구축 · [Repository](https://github.com/inhadissolve/samuel-school) |
+| [🏠 HomeFit](https://github.com/inhadissolve/homefit-showcase) | Backend Team Lead | NestJS·Prisma 기반 청년 주거·금융 API, 멱등 Seed와 E2E, Android 연동, AWS Terraform·CI/CD 구축 · UMC 베스트 챌린저 선정 |
+| [🤟 수담(手談)](https://github.com/KSEB-MEGA-CREW) | Team Lead · AI Pipeline | MediaPipe·TensorFlow·FastAPI 기반 실시간 수어 인식/번역. 예측 안정화와 추론 API 구현 · 최우수상·우수상 |
+| [🏭 RealGain](https://github.com/RealGain-5) | ML · Integration | 진동 데이터를 Orbit 이미지로 변환하고 ResNet18·Grad-CAM으로 이상 탐지 및 판단 근거 시각화 · 대상 |
+| [📰 IssueOne](https://issue-one.vercel.app/) | AI · Backend | RSS 수집·정제·요약 API와 배포 메모리 제약 대응. Hugging Face/OpenAI API 전환 · [Repository](https://github.com/KSEB-4-E) · 대상 |
+| [🌱 GreenBrain](https://github.com/GreenBrain-Inha/BE_GreenBrain) | Backend | 챌린지 인증, 피드, 토큰 보상 API와 Supabase Storage 연동 |
 
----
+> 실제 화면, 아키텍처, 문제 해결 과정과 수상 증빙은 **[포트폴리오의 프로젝트 사례 연구](https://inhadissolve.github.io/portfolio/#projects)**에서 확인할 수 있습니다.
 
-## Awards
+## Experience & Awards
 
 | 기간 | 내용 |
-|---|---|
-| 2025.09 ~ 2025.12 | 🏆 탄소중립 Innovation Academy 5기 기업 연계 프로젝트 **대상** |
-| 2025.09 ~ 2025.10 | 🥇 오픈소스 SW 페스티벌 **최우수상** (인하대학교 총장상) |
-| 2025.06 ~ 2025.08 | 🥉 KSEB 팀 프로젝트 **우수상** |
-| 2025.03 ~ 2025.06 | 🥇 KSEB 미니프로젝트 **대상** (1위) |
-| 2025.01 ~ 2025.11 | 🏅 KSEB 부트캠프 4기 **개인 우수상** (전체 수료생 중 8명 선정) |
-
----
-
-## Projects
-
-> 프로젝트별 상세 내용(역할 · 트러블슈팅 · 배운 점)은 **[Notion 포트폴리오](https://www.notion.so/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)** 에서 확인하실 수 있습니다.
-
-| 기간 | 프로젝트 | 설명 | 기술 |
-|---|---|---|---|
-| 2025.11 ~ | [📚 사무엘학교](https://github.com/inhadissolve/samuel-school) | 성경 암송 훈련 학습 웹서비스 — 기획부터 배포까지 1인 개발, 실사용자 운영 중 | `React` `FastAPI` `PostgreSQL` `OpenAI API` |
-| 2026.06 ~ | [🏠 HomeFit](https://github.com/inhadissolve) | 청년 주거 · 금융 의사결정 서비스 — UMC 10th 팀 프로젝트 · Backend Team Lead | `NestJS` `PostgreSQL` `Prisma` |
-| 2026 ~ | [📱 FocusLink](https://github.com/inhadissolve) | 앱 사용 기록 기반 공부 집중 관리 Android 앱 — 1인 풀스택 | `FastAPI` `PostgreSQL` `Jetpack Compose` |
-| 2026 ~ | [🎯 CueKit](https://github.com/inhadissolve) | AI 퀴즈 생성 · QR 라이브 룸 SaaS 플랫폼 — 개인 MVP 개발 중 | `Next.js` `TypeScript` `Supabase` |
-| 2026 ~ | [🌱 GreenBrain](https://github.com/GreenBrain-Inha/BE_GreenBrain) | AI 기반 탄소중립 챌린지 실천 웹서비스 — 팀 BE 담당 | `FastAPI` `PostgreSQL` `Supabase` |
-| 2026 ~ | [🚗 교회 차량 운영](https://github.com/inhadissolve) | 교회 차량 운행 기록 · 주차 위치 관리 웹서비스 — 1인 개발 · 실운영 | - |
-| 2026 ~ | [⛪ 농선부 관리](https://github.com/inhadissolve) | 청각장애인 선교부 출석 · 수어교실 · 당번 통합 관리 — 1인 · 실운영 | `React` `Firebase` `TypeScript` |
-| 2026 ~ | [🐝 꿀단지 레이스](https://github.com/inhadissolve) | 성경읽기 대항전 실시간 레이스 게임 — 3인 팀 · 실운영 | `React` `Framer Motion` `Firebase` |
-| 2025 | [🤟 수담(手談)](https://github.com/KSEB-MEGA-CREW) | 실시간 양방향 수어 인식 · 번역 서비스 — 팀장 · AI 파이프라인 담당 | `Python` `MediaPipe` `FastAPI` |
-| 2025 | [🏭 RealGain](https://github.com/inhadissolve/Real_Gain) | 산업 설비 진동 데이터 기반 이상탐지 AI — AI/HW 파트 담당 | `Python` `TensorFlow` `Grad-CAM` |
-| 2025 | [📰 IssueOne](https://github.com/inhadissolve/ISSUE_ONE) | RSS 수집 · AI 요약 기반 개인 맞춤형 뉴스 서비스 — 팀 AI/BE 담당 | `FastAPI` `SQLite` `HuggingFace API` |
-
----
+| --- | --- |
+| 2026.03 ~ 2026.08 | 🏅 **UMC 10th Backend(Node.js) 베스트 챌린저** · HomeFit Backend Team Lead |
+| 2025.09 ~ 2025.12 | 🏆 탄소중립 Innovation Academy 5기 기업연계 프로젝트 **대상(1위)** |
+| 2025.09 ~ 2025.10 | 🥇 인하대학교 오픈소스 SW 페스티벌 **최우수상·총장상(1위)** |
+| 2025.07 ~ 2025.09 | 🥉 KSEB 팀 프로젝트 수담 **우수상(3위)** |
+| 2025.03 ~ 2025.06 | 🥇 KSEB 미니프로젝트 IssueOne **대상(1위)** |
+| 2025.01 ~ 2025.11 | 🎓 KSEB 부트캠프 4기 수료 · **개인 우수 교육생**(전체 수료생 중 8명 선정) |
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=inhadissolve&theme=transparent&hide_border=true&date_format=Y.m.d" />
-</p>
-
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" alt="김찬혁 GitHub 통계">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="김찬혁 GitHub 언어 통계">
+</div>
 
 ## Contact
 
-- GitHub: [inhadissolve](https://github.com/inhadissolve)
-- Email: [dissolve1882@naver.com](mailto:dissolve1882@naver.com)
+- Portfolio: [inhadissolve.github.io/portfolio](https://inhadissolve.github.io/portfolio/)
+- GitHub: [github.com/inhadissolve](https://github.com/inhadissolve)
 - Blog: [blog.naver.com/dissolve_chan](https://blog.naver.com/dissolve_chan)
-- Portfolio: [Notion](https://www.notion.so/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)
+- Email: [dissolve1882@naver.com](mailto:dissolve1882@naver.com)
+- Notion: [Projects & Studies](https://app.notion.com/p/UMC-10th-0f72a03e23d9832d8dc381d08168d0c7)
