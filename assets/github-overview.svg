@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="210" viewBox="0 0 520 210" role="img" aria-labelledby="title description">
+  <title id="title">inhadissolve GitHub overview</title>
+  <desc id="description">Public repositories, merged pull requests, opened issues and followers, updated 2026-08-27</desc>
+  <style>
+    .background { fill: #ffffff; stroke: #e5e7eb; }
+    .title { fill: #111827; font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle { fill: #6b7280; font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .metric { fill: #3457ff; font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #6b7280; font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .language { fill: #374151; font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .percent { fill: #6b7280; font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #f0f6fc; }
+      .subtitle, .label, .percent { fill: #8b949e; }
+      .language { fill: #c9d1d9; }
+    }
+  </style>
+  <rect class="background" x="0.5" y="0.5" width="519" height="209" rx="14"/>
+  <text class="title" x="28" y="38">GitHub Overview</text>
+  <text class="subtitle" x="28" y="59">Public activity · updated 2026-08-27</text>
+  
+        <text class="metric" x="30" y="105">19</text>
+        <text class="label" x="30" y="126">Public repositories</text>
+        <text class="metric" x="280" y="105">261</text>
+        <text class="label" x="280" y="126">Merged pull requests</text>
+        <text class="metric" x="30" y="170">93</text>
+        <text class="label" x="30" y="191">Issues opened</text>
+        <text class="metric" x="280" y="170">6</text>
+        <text class="label" x="280" y="191">Followers</text>
+</svg>

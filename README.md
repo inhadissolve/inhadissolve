@@ -99,9 +99,11 @@ AI 모델과 외부 API를 제품 흐름에 연결하고, 팀의 API 계약과 �
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inhadissolve&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400" alt="김찬혁 GitHub 통계">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhadissolve&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="김찬혁 GitHub 언어 통계">
+  <img width="49%" src="./assets/github-overview.svg" alt="김찬혁 GitHub 공개 저장소 통계">
+  <img width="49%" src="./assets/top-languages.svg" alt="김찬혁 공개 저장소 사용 언어 통계">
 </div>
+
+<p align="center"><sub>GitHub API 기준 · fork 저장소를 제외한 공개 저장소 언어 통계 · 매주 자동 갱신</sub></p>
 
 ## Contact
 

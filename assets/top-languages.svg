@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="210" viewBox="0 0 520 210" role="img" aria-labelledby="title description">
+  <title id="title">inhadissolve top languages</title>
+  <desc id="description">Top languages from owned non-fork public repositories, updated 2026-08-27</desc>
+  <style>
+    .background { fill: #ffffff; stroke: #e5e7eb; }
+    .title { fill: #111827; font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle { fill: #6b7280; font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .metric { fill: #3457ff; font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #6b7280; font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .language { fill: #374151; font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .percent { fill: #6b7280; font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #f0f6fc; }
+      .subtitle, .label, .percent { fill: #8b949e; }
+      .language { fill: #c9d1d9; }
+    }
+  </style>
+  <rect class="background" x="0.5" y="0.5" width="519" height="209" rx="14"/>
+  <text class="title" x="28" y="38">Top Languages</text>
+  <text class="subtitle" x="28" y="59">Owned non-fork public repositories · by code size</text>
+  <clipPath id="language-bar"><rect x="28" y="72" width="464" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#language-bar)"><rect x="28.00" y="72" width="158.47" height="10" fill="#3572A5"/><rect x="186.47" y="72" width="147.43" height="10" fill="#E34C26"/><rect x="333.90" y="72" width="102.96" height="10" fill="#663399"/><rect x="436.86" y="72" width="55.14" height="10" fill="#F1E05A"/></g>
+  
+        <circle cx="35" cy="109" r="5" fill="#3572A5"/>
+        <text class="language" x="48" y="113">Python</text>
+        <text class="percent" x="215" y="113" text-anchor="end">34.2%</text>
+        <circle cx="285" cy="109" r="5" fill="#E34C26"/>
+        <text class="language" x="298" y="113">HTML</text>
+        <text class="percent" x="465" y="113" text-anchor="end">31.8%</text>
+        <circle cx="35" cy="138" r="5" fill="#663399"/>
+        <text class="language" x="48" y="142">CSS</text>
+        <text class="percent" x="215" y="142" text-anchor="end">22.2%</text>
+        <circle cx="285" cy="138" r="5" fill="#F1E05A"/>
+        <text class="language" x="298" y="142">JavaScript</text>
+        <text class="percent" x="465" y="142" text-anchor="end">11.9%</text>
+</svg>
