@@ -22,9 +22,9 @@
   
         <text class="metric" x="30" y="105">19</text>
         <text class="label" x="30" y="126">Public repositories</text>
-        <text class="metric" x="280" y="105">261</text>
+        <text class="metric" x="280" y="105">127</text>
         <text class="label" x="280" y="126">Merged pull requests</text>
-        <text class="metric" x="30" y="170">93</text>
+        <text class="metric" x="30" y="170">59</text>
         <text class="label" x="30" y="191">Issues opened</text>
         <text class="metric" x="280" y="170">6</text>
         <text class="label" x="280" y="191">Followers</text>
