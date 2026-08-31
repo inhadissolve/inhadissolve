@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="210" viewBox="0 0 520 210" role="img" aria-labelledby="title description">
   <title id="title">inhadissolve GitHub overview</title>
-  <desc id="description">Public repositories, merged pull requests, opened issues and followers, updated 2026-08-27</desc>
+  <desc id="description">Public repositories, merged pull requests, opened issues and followers, updated 2026-08-31</desc>
   <style>
     .background { fill: #ffffff; stroke: #e5e7eb; }
     .title { fill: #111827; font: 700 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -18,7 +18,7 @@
   </style>
   <rect class="background" x="0.5" y="0.5" width="519" height="209" rx="14"/>
   <text class="title" x="28" y="38">GitHub Overview</text>
-  <text class="subtitle" x="28" y="59">Public activity · updated 2026-08-27</text>
+  <text class="subtitle" x="28" y="59">Public activity · updated 2026-08-31</text>
   
         <text class="metric" x="30" y="105">19</text>
         <text class="label" x="30" y="126">Public repositories</text>
